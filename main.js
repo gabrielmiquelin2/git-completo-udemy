@@ -1,1 +1,10 @@
 const idade = 17
+
+/*
+Visando o potencial da Internet para o público geral e a necessidade de haver uma interação maior do usuário com as páginas, a Netscape, criadora do navegador mais popular do início dos anos 90, de mesmo nome, criou o Livescript, uma linguagem simples que permitia a execução de scripts contidos nas páginas dentro do próprio navegador.
+
+Aproveitando o iminente sucesso do Java, que vinha conquistando cada vez mais espaço no mercado de desenvolvimento de aplicações corporativas, a Netscape logo rebatizou o Livescript como JavaScript num acordo com a Sun para alavancar o uso das duas. A então vice-líder dos navegadores, Microsoft, adicionou ao Internet Explorer o suporte a scripts escritos em VBScript e criou sua própria versão de JavaScript, o JScript.
+
+JavaScript é a linguagem de programação mais popular no desenvolvimento Web. Suportada por todos os navegadores, a linguagem é responsável por praticamente qualquer tipo de dinamismo que queiramos em nossas páginas.
+
+Se usarmos todo o poder que ela tem para oferecer, podemos chegar a resultados impressionantes. Excelentes exemplos disso são aplicações Web compl */ 
