@@ -1,3 +1,0 @@
-const idade = 17
-
-
