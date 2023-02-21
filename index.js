@@ -1,4 +1,4 @@
 var meuCarro = new Object();
 
-meuCarro.modelo = "Mustang";
+meuCarro.modelo = "Carroça";
 meuCarro.ano = 1969;
