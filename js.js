@@ -1,3 +1,8 @@
-var frutas = ['Maçã', 'Banana'];
+const obj = {
+  foo() {
+    return 'bar';
+  }
+};
 
-console.log(frutas.length);
+console.log(obj.foo());
+// Expected output: "bar"
